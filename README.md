@@ -1,2 +1,2 @@
-#my_project_1 from BBBBBBB
+#my_project_1 from aaaaaaAAAA
 My name is README
